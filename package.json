@@ -25,7 +25,9 @@
     "type": "git",
     "url": "git+https://github.com/nak2k/node-opn-arn.git"
   },
-  "scripts": {},
+  "scripts": {
+    "postpublish": "npm-sns"
+  },
   "files": [
     "README.md",
     "bin/",
