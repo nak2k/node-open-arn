@@ -1,6 +1,6 @@
 {
   "name": "opn-arn",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Open an ARN",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bin": {
