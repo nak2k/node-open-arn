@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "arn2url": "0.0.3",
-    "open": "^6.2.0"
+    "open": "^7.0.0"
   },
   "devDependencies": {},
   "homepage": "https://github.com/nak2k/node-opn-arn",
